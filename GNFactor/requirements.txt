@@ -9,5 +9,5 @@ pandas==1.4.1
 pyrender==0.1.45
 regex
 scipy==1.4.1
-transformers==4.3.2
+transformers==4.38.0
 trimesh==3.9.34
