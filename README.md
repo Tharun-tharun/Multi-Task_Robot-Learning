@@ -2,26 +2,6 @@
 
   <h1 align="center"><a href="https://yanjieze.com/GNFactor/">GNFactor</a>:
 Multi-Task Real Robot Learning with <a>G</a>eneralizable <a>N</a>eural Feature <a>F</a>ields</h1>
-<h2 align="center">CoRL 2023 <a href="https://openreview.net/forum?id=b1tl3aOt2R2">Oral</a></h2>
-  <p align="center">
-    <a><strong>Yanjie Ze*</strong></a>
-    ·
-    <a><strong>Ge Yan*</strong></a>
-    ·
-    <a><strong>Yueh-Hua Wu*</strong></a>
-    ·
-    <a><strong>Annabella Macaluso</strong></a>
-    ·
-    <a><strong>Yuying Ge</strong></a>
-    ·
-    <a><strong>Jianglong Ye</strong></a>
-    ·
-    <a><strong>Nicklas Hansen</strong></a>
-    ·
-    <a><strong>Li Erran Li</strong></a>
-    ·
-    <a><strong>Xiaolong Wang</strong></a>
-  </p>
 
 </p>
 
@@ -36,9 +16,6 @@ Multi-Task Real Robot Learning with <a>G</a>eneralizable <a>N</a>eural Feature <
 <div align="center">
   <img src="./docs/gnfactor_method.png" alt="Logo" width="100%">
 </div>
-
-https://github.com/YanjieZe/GNFactor/assets/59699800/0ad86126-ad24-4291-a4ba-6bb591d9934a
-
 
 
 # 💻 Installation
@@ -151,15 +128,3 @@ This repository is released under the MIT license. See [LICENSE](LICENSE) for ad
 # 🙏 Acknowledgement
 
 Our code is built upon [PerAct](https://github.com/peract/peract), [RLBench](https://github.com/stepjam/RLBench), [pixelNeRF](https://github.com/sxyu/pixel-nerf), [ODISE](https://github.com/NVlabs/ODISE), and [CLIP](https://github.com/openai/CLIP). We thank all these authors for their nicely open sourced code and their great contributions to the community.
-
-# 📝 Citation
-
-If you find our work useful, please consider citing:
-```
-@article{Ze2023GNFactor,
-  title={Multi-Task Real Robot Learning with Generalizable Neural Feature Fields},
-  author={Yanjie Ze and Ge Yan and Yueh-Hua Wu and Annabella Macaluso and Yuying Ge and Jianglong Ye and Nicklas Hansen and Li Erran Li and Xiaolong Wang},
-  journal={CoRL}, 
-  year={2023},
-}
-```
