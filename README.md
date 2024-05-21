@@ -5,14 +5,6 @@ Multi-Task Real Robot Learning with <a>G</a>eneralizable <a>N</a>eural Feature <
 
 </p>
 
-<h3 align="center">
-  <a href="https://yanjieze.com/GNFactor/"><strong>Project Page</strong></a>
-  |
-  <a href="https://arxiv.org/abs/2308.16891"><strong>arXiv</strong></a>
-  |
-  <a href="https://twitter.com/xiaolonw/status/1697654370492469414?s=20"><strong>Twitter</strong></a>
-</h3>
-
 <div align="center">
   <img src="./docs/gnfactor_method.png" alt="Logo" width="100%">
 </div>
