@@ -1,7 +1,7 @@
 <p align="center">
 
-  <h1 align="center"><a href="https://yanjieze.com/GNFactor/">GNFactor</a>:
-Multi-Task Real Robot Learning with <a>G</a>eneralizable <a>N</a>eural Feature <a>F</a>ields</h1>
+  <h1 align="center"><a href="https://yanjieze.com/GNFactor/">Manipulation</a>:
+A Versatile Transformer for Robotic Manipulation Tasks</h1>
 
 </p>
 
